@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Alienpay
-Template URL: https://bootstrapmade.com/Alienpay-bootstrap-template-nice-animation/
+Template Name: NgCovid
+Template URL: https://bootstrapmade.com/NgCovid-bootstrap-template-nice-animation/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/

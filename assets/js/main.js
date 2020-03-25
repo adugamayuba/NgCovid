@@ -1,6 +1,6 @@
 /**
-* Template Name: Alienpay - v2.0.0
-* Template URL: https://bootstrapmade.com/Alienpay-bootstrap-template-nice-animation/
+* Template Name: NgCovid - v2.0.0
+* Template URL: https://bootstrapmade.com/NgCovid-bootstrap-template-nice-animation/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
